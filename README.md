@@ -58,3 +58,4 @@ int g0/2
 ip address 30.0.0.10 255.255.255.0
 no shutdown 
 exit
+![CREATING INTER-VLAN SWITCH AND ROUTER](https://user-images.githubusercontent.com/106605770/177990453-1bbddcbb-e8e6-49dd-b630-b289f3ea1c55.jpg)
